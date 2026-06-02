@@ -1,5 +1,5 @@
 class company():
-    def __init_(self):
+    def _init_(self):
         self.__companyName="Google"
     def companyName(self):
         print(self.__companyName)
